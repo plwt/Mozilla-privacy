@@ -1,0 +1,1 @@
+{"name": "Privacy theme", "manifest_version": 2, "version": "4.0", "theme": {"images": {"theme_frame": "Mozilla privacy desktop Seburo 02052018.png"}, "colors": {"frame": "rgba(229, 230, 232, 1)", "tab_background_text": "rgba(255, 255, 255, 1)"}}}
